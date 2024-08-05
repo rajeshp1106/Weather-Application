@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211232172279",
+    "project_id": "krishi-52b5b",
+    "storage_bucket": "krishi-52b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211232172279:android:a37ba341829291726dcbf2",
+        "android_client_info": {
+          "package_name": "com.raya.agriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211232172279-54m2tj96hfha7muhoqi5q69bdg7qtfg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raya.agriapp",
+            "certificate_hash": "067de03af0c2342d81f0996e24a9199313a9f08e"
+          }
+        },
+        {
+          "client_id": "211232172279-4md6lv7aljqlqueih1di4iii4dvmb9n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFA1_YeWMOHerPxT41vqnffl_M8xg27Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211232172279-4md6lv7aljqlqueih1di4iii4dvmb9n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

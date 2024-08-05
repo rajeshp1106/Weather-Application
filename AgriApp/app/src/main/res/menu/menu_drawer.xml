@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="@string/dashboardfragment"
+        android:icon="@drawable/ic_dashboard"/>
+
+    <item
+        android:id="@+id/favorites"
+        android:title="@string/favoritesfragment"
+        android:icon="@drawable/ic_favourites"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profilefragment"
+        android:icon="@drawable/ic_profile"/>
+
+    <item
+        android:id="@+id/About"
+        android:title="@string/info"
+        android:icon="@drawable/ic_about"/>
+</menu>

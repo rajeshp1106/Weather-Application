@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgriApp</string>
+    <string name="dashboard" />
+    <string name="favourites" />
+    <string name="profile" />
+    <string name="about" />
+    <string name="dashboardfragment">dashboard</string>
+    <string name="favoritesfragment">favorites</string>
+    <string name="profilefragment">profile</string>
+    <string name="info">about</string>
+    <string name="navigation_drawer">Navigation drawer</string>
+    <string name="open_drawer">open Drawer</string>
+    <string name="close_drawer">close Drawer</string>
+
+
+</resources>
